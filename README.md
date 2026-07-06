@@ -14,6 +14,7 @@ the primary objective of this project is to help business stakeholders understan
 
 ## Poject Workflow
 
+``
 Raw Sales Data 
 
     │ 
@@ -49,10 +50,12 @@ Advanced SQL Analysis
       │
       
       ▼ 
-Business Insights
+  Business Insights
 
   │
   
   ▼
   
-Strategic Decision Support
+  Strategic Decision Support
+
+``
