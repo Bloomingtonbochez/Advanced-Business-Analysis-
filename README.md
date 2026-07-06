@@ -13,25 +13,46 @@ the primary objective of this project is to help business stakeholders understan
 -which custimer metrics are most valuable for long term decision making
 
 ## Poject Workflow
+
 Raw Sales Data 
+
     │ 
-    ▼ 
-Data Preparation 
-    │ 
-    ▼ 
+    
+    ▼
+    
+Data Preparation
+
+    │
+    
+    ▼
+    
 Advanced SQL Analysis
-    │ 
-    ├── Change Over Time Analysis 
+
+    │
+    
+    ├── Change Over Time Analysis
+    
     ├── Cumulative Analysis 
-    ├── Product Performance Analysis 
-    ├── Year-over-Year Comparison 
-    ├── Whole-to-Part Analysis 
-    ├── Product Segmentation 
-    ├── Customer Segmentation 
-    └── Customer Reporting 
+    
+    ├── Product Performance Analysis
+    
+    ├── Year-over-Year Comparison
+    
+    ├── Whole-to-Part Analysis
+    
+    ├── Product Segmentation
+    
+    ├── Customer Segmentation
+    
+    └── Customer Reporting
+    
       │
+      
       ▼ 
 Business Insights
+
   │
-  ▼ 
+  
+  ▼
+  
 Strategic Decision Support
