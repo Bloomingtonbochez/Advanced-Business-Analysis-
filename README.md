@@ -314,7 +314,7 @@ ORDER BY total_customers
 
 ```
 
-SQL Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 Throughout this project, a wide range of advanced SQL techniques are applied, including:
 
