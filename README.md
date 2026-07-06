@@ -322,17 +322,27 @@ Common Table Expressions (CTEs)
 Window Functions
 Running Totals
 Moving Averages
+
 LAG()
+
 AVG() OVER()
+
 SUM() OVER()
+
 Aggregate Functions
+
 CASE Expressions
+
 LEFT JOIN
+
 GROUP BY
+
 ORDER BY
+
 Date Functions
+
 Customer Segmentation Logic
-Business KPI Development
+
 Business Impact
 
 This project demonstrates how SQL can move beyond querying data to solving real business problems.
@@ -342,7 +352,7 @@ The analyses support strategic decision-making by identifying growth trends, eva
 Rather than presenting isolated metrics, the project transforms transactional data into a comprehensive analytical framework that helps stakeholders make informed, data-driven decisions.
 
 
-
+Developed as part of an Advanced Business Analytics portfolio to demonstrate practical SQL skills in solving real-world business problems through data analysis, performance measurement, and insight generation.
 
 
 
